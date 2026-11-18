@@ -1,0 +1,2 @@
+# AI-Smart-Door-Access-System-Using-LPC2129-with-EM18-RFID-Reader-4x4-Keypad-Matrix-and-Servo-Motor
+The AI Smart Door Access System is an embedded mini project designed to provide secure and automated door access control using RFID authentication, keypad password verification, and servo motor-based door operation with the LPC2129 microcontroller. Scan RFID card ,Enter password through keypad ,Open or close the door automatically using servo motor
